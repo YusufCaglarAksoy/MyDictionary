@@ -15,7 +15,7 @@ namespace MyList
             for (int i=0; i < 4; i++)
             {
                 Console.WriteLine("Urun adi: " + myList.Names[i] + "   Urun Fiyati: " + myList.Prices[i] + "TL");
-            }
+            } 
         }
     }
 }
